@@ -71,6 +71,7 @@ install-sh
 libtool
 ltmain.sh
 Makefile
+Makefile.in
 !contrib/loaders/**/Makefile
 mdate-sh
 missing
